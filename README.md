@@ -14,3 +14,15 @@ The network that i created is looks like this.
 
 
 -You can see different priority actions in different GoS Levels in this network.
+
+
+opensimpls user guide:
+
+[opensimmpls_quick_user_guide.pdf](https://github.com/Kaandonmez/Basic-MplsNetwork/files/6350697/opensimmpls_quick_user_guide.pdf)
+
+
+Detailed analysis of the created network written in Turkish.
+
+[index.docx](https://github.com/Kaandonmez/Basic-MplsNetwork/files/6350718/index.docx)
+
+
